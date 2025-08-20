@@ -7,8 +7,13 @@ This repository documents my practical labs, projects, and reports.
 ---
 
 ## 📂 Repository Structure
-- **SOC-IR-Labs/** → Incident response & SOC analysis reports  
-- **Weekly-Learnings/** → Notes from daily labs (TryHackMe, LetsDefend, CyberDefenders)
+## 🔹 SOC Labs
+- [TryHackMe Labs](SOC-LABS/TryHackMe)
+- [LetsDefend Labs](SOC-LABS/LetsDefend)
+- [CyberDefenders Labs](SOC-LABS/CyberDefenders)
+
+## 🔹 Weekly Learnings
+- [Week 1](Weekly-Learnings/Week-1.md)
 
 ---
 
