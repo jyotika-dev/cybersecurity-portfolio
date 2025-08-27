@@ -7,13 +7,11 @@ This repository documents my practical labs, projects, and reports.
 ---
 
 ## 📂 Repository Structure
-## 🔹 SOC Labs
+## 🔹 Labs
 - [TryHackMe Labs](SOC-LABS/TryHackMe)
 - [LetsDefend Labs](SOC-LABS/LetsDefend)
 - [CyberDefenders Labs](SOC-LABS/CyberDefenders)
-
-## 🔹 Weekly Learnings
-- [Week 1](Weekly-Learnings/Week-1.md)
+- [Hackviser CAPT](Hackviser-CAPT)
 
 ---
 
