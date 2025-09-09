@@ -11,6 +11,7 @@ This repository documents my practical labs, projects, and reports.
 - [TryHackMe Labs](SOC-LABS/TryHackMe)
 - [LetsDefend Labs](SOC-LABS/LetsDefend)
 - [CyberDefenders Labs](SOC-LABS/CyberDefenders)
+- [LINUX Labs](SOC-LABS/OverTheWire-Bandit)
 - [Hackviser CAPT](Hackviser-CAPT)
 
 ---
