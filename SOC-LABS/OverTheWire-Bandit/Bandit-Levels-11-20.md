@@ -1,19 +1,11 @@
-# 🔐 OverTheWire Bandit — Levels 11–20 (Summary & Notes)
-
-**Repository:** `SOC-LABS/OverTheWire-Bandit/`  
-**Range:** Levels 11 → 20  
-**Purpose:** Build practical Linux investigation skills used in SOC/IR workflows (decoding, archive handling, service interaction, key handling, network reconnaissance).
-
----
+# 🔐 OverTheWire Bandit - Levels 11–20
 
 ## 📌 Overview
 Levels 11–20 combine text transformations, binary/hex decoding, compression/decompression, remote service interaction (netcat/ncat), basic port scanning, and private key usage. These exercises closely mirror real-world forensic tasks (decode/untar/extract), and service-based capture/response tasks (interact with local services, handle keys securely).
 
-> **Note:** I do **not** post challenge passwords here. If you want to keep local proof, save them in a private document.
-
 ---
 
-## 🧭 Level-by-level Notes (11 → 20)
+## 🧭 Level Highlights (11 → 20)
 
 ### Level 11 → 12
 **Goal:** Apply a ROT13-style transformation to recover secret text.
