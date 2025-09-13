@@ -113,7 +113,7 @@ Levels 11–20 combine text transformations, binary/hex decoding, compression/de
 
 ---
 
-## 🔎 SOC / IR Takeaways
+## 🔎 Key Takeaways
 - **Layered artifact extraction** (hex → compressed archives → tar) mirrors real forensic jobs where data is intentionally or accidentally nested.  
 - **Identifying file type first (`file`)** then choosing the right decompressor is a repeatable pattern.  
 - **Key handling** and permissions are operationally important — incorrect permissions break SSH usage.  
@@ -121,5 +121,4 @@ Levels 11–20 combine text transformations, binary/hex decoding, compression/de
 - **Documentation:** for each step I logged commands + reasoning; this is important for IR reports and reproducibility.
 
 ---
-
-## 📂 Suggested Repo Layout (where to add this file)
+**Reference:** https://overthewire.org/wargames/bandit/
