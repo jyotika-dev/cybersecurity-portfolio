@@ -1,7 +1,7 @@
 # 🐧 LinuxJourney - Processes
 
 This file summarizes my learning from **LinuxJourney** on Linux process management.  
-https://linuxjourney.com/lesson/processes
+[https://linuxjourney.com/lesson/processes](https://labex.io/lesson/monitor-processes-ps-command)
 I practiced these on my local terminal and cybersecurity labs.
 
 ---
