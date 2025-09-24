@@ -14,6 +14,7 @@ This repository documents my practical labs, projects, and reports.
 - [Linux Journey](SOC-LABS/LinuxJourney)
 - [Over The Wire](SOC-LABS/OverTheWire-Bandit)
 - [Hackviser CAPT](Hackviser-CAPT)
+- [SIEM](SOC-LABS/SIEM)
 
 ---
 
