@@ -30,7 +30,8 @@ This document captures my first day learning Splunk Cloud for log analysis and S
 **Purpose**: Identify the top 10 IP addresses accessing the server
 - **Security relevance**: Detect potential botnet activity, DDoS sources, or suspicious traffic patterns
 - Shows both count and percentage of total requests per IP
-- 
+- ![Top Client IPs](https://github.com/user-attachments/assets/ff302230-f810-44c1-a0d9-acc4dd067128)
+
 
 ### 3. HTTP Error Analysis
 **Query**: `index=main status>=400 | stats count by status`
@@ -41,6 +42,7 @@ This document captures my first day learning Splunk Cloud for log analysis and S
   - 401/403: Unauthorized access attempts
   - 404: Potential directory enumeration
   - 500: Server errors that might indicate attacks
+  - ![HTTP Error Analysis](https://github.com/user-attachments/assets/cecb92e6-3671-46fd-8e4a-0abc9db33f55)
 
 ### 4. Request Method Analysis
 **Query**: `index=main | stats count by method`
@@ -50,6 +52,7 @@ This document captures my first day learning Splunk Cloud for log analysis and S
   - Unusual method distribution might indicate attacks
   - POST requests could indicate form submissions or API abuse
   - Helps understand normal vs abnormal traffic patterns
+  - ![Request Method Analysis](https://github.com/user-attachments/assets/c89c234d-022e-4bea-93c3-a5b3555f8b4b)
 
 ### 5. Time-Series Analysis
 **Query**: `index=main | timechart count by status`
@@ -60,6 +63,7 @@ This document captures my first day learning Splunk Cloud for log analysis and S
   - Spot traffic spikes or unusual patterns
   - Correlate events with specific timeframes
 - Creates a timeline chart showing trends and anomalies
+- ![Time-Series Analysis](https://github.com/user-attachments/assets/d8cb41dc-b6db-4bdd-9e7f-60ccaff5067c)
 
 ---
 
@@ -78,13 +82,4 @@ This document captures my first day learning Splunk Cloud for log analysis and S
 - **Attack timeline reconstruction**: Using time-series analysis
 - **Threat hunting**: Leveraging IP and error code analysis
 
-**Next Steps**:
-- Explore more advanced filtering and correlation
-- Learn about Splunk alerts and dashboards
-- Practice with different log types (Windows, firewall, etc.)
-- Study common attack patterns in web logs
-
 ---
-
-## Screenshots
-*Screenshots of query results will be added here*
