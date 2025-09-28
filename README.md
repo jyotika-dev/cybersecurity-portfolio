@@ -19,7 +19,7 @@ This repository documents my practical labs, projects, and reports.
 ---
 
 ## 🛡️ Highlight Projects
-- Soon!
+- [Brute Force Login Attempts](SOC-LABS/SIEM/splunk-brute-force-dashboard.md)
 
 ---
 
