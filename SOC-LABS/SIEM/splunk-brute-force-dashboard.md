@@ -3,7 +3,9 @@
 ## Objective
 Build a Splunk dashboard to detect brute force login attempts by analyzing failed login events and summarizing suspicious IP addresses, login failures over time, and status code distributions. This aids SOC analysts in early attack detection.
 
-![Dashboard-Brute Force Login Attempts](https://github.com/user-attachments/assets/3e440fbf-d938-463a-9bdd-f65af9d2747e)
+<img width="1879" height="915" alt="image" src="https://github.com/user-attachments/assets/62a04950-6b88-4e2e-a034-0208389e192c" />
+<img width="1866" height="801" alt="image" src="https://github.com/user-attachments/assets/bf42fee2-3a1c-4f5d-8b1a-bfbb8a468278" />
+
 
 ---
 
