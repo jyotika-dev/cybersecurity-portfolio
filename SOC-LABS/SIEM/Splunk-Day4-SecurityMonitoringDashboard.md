@@ -1,4 +1,4 @@
-<img width="1876" height="572" alt="image" src="https://github.com/user-attachments/assets/e8968a72-1ebd-4c76-8096-5edd2bac0d66" /># Splunk Day 4 - Security Monitoring Dashboard
+# Splunk Day 4 - Security Monitoring Dashboard
 
 This document summarizes my hands-on experience from Day 4 of Splunk training, focusing on creating a comprehensive security monitoring dashboard with multiple visualization panels.
 
