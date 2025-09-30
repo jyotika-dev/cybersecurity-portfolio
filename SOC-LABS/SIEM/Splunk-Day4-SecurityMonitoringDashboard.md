@@ -58,7 +58,7 @@ index=main
 
 **Visualization:** Pie Chart
 
-<img width="1876" height="572" alt="image" src="https://github.com/user-attachments/assets/c235f444-369d-48b9-b167-27bf889d1a0f" />
+<img width="1843" height="462" alt="image" src="https://github.com/user-attachments/assets/29010769-f85d-4775-800a-de08e1b94156" />
 
 
 **Key Insights:**
