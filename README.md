@@ -15,6 +15,7 @@ This repository documents my practical labs, projects, and reports.
 - [Over The Wire](SOC-LABS/OverTheWire-Bandit)
 - [Hackviser CAPT](Hackviser-CAPT)
 - [SIEM](SOC-LABS/SIEM)
+- [LABEX-LABS](Labex-Labs)
 
 ---
 
