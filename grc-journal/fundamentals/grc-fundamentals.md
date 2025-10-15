@@ -1,0 +1,26 @@
+# Governance, Risk and Compliance (GRC) Fundamentals
+
+## What is GRC and How They Interact?
+
+Let's say a large IT industry needs to:
+* Set rules and responsibilities for how it operates ⇒ **Governance**
+* Identify threats/risks like fraud or cyber attacks ⇒ **Risk Management**
+* Follow laws protecting client data and employee details ⇒ **Compliance**
+
+All these unite to form a GRC program to run a firm smoothly and reduce risks.
+
+---
+
+## Core Components
+
+**Governance:** The policies, rules and responsibilities guiding the organization to meet its goals ethically and transparently.
+
+**Risk Management:** The process of identifying, assessing and controlling threats that can disrupt the operations or cause harm to the firm.
+
+**Compliance:** The process of making sure that the organization follows laws, regulations and policies to avoid consequences like penalties and maintain trust.
+
+---
+
+## How GRC Works Together
+
+GRC ensures clear accountability and better collaboration for managing IT risks and compliances across the organization.
