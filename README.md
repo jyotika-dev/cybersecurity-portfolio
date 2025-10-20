@@ -8,7 +8,8 @@ This repository documents my practical labs, projects, and reports.
 
 ## 📂 Repository Structure
 ## 🔹 Labs
-- [TryHackMe Labs](SOC-LABS/TryHackMe)
+- [TryHackMe Labs](TryHackMe)
+- [GRC Journal](grc-journal)
 - [LetsDefend Labs](SOC-LABS/LetsDefend)
 - [CyberDefenders Labs](SOC-LABS/CyberDefenders)
 - [Linux Journey](SOC-LABS/LinuxJourney)
