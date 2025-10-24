@@ -1,6 +1,6 @@
 # NIST Cybersecurity Framework (CSF)
 
-<img width="834" height="783" alt="image" src="https://github.com/user-attachments/assets/58c76b35-4434-4008-9cc3-ce05a6d51efc" />
+<img width="534" height="483" alt="image" src="https://github.com/user-attachments/assets/58c76b35-4434-4008-9cc3-ce05a6d51efc" />
 
 The **NIST Cybersecurity Framework** provides guidance to industry, government agencies, and other organizations to manage cybersecurity risks effectively.
 
