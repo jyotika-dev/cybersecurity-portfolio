@@ -22,6 +22,8 @@ This repository documents my practical labs, projects, and reports.
 
 ## 🛡️ Highlight Projects
 - [Brute Force Login Attempts](SOC-LABS/SIEM/splunk-brute-force-dashboard.md)
+- [Splunk Threat Intelligence Dashboard](SOC-LABS/SIEM/Splunk-Threat-Intelligence-Dashboard-day5.md)
+- [Splunk Security Monitoring Dashboard](SOC-LABS/SIEM/Splunk-Day4-SecurityMonitoringDashboard.md)
 
 ---
 
