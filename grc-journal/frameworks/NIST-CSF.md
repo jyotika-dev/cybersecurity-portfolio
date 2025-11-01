@@ -1,4 +1,4 @@
-# NIST Cybersecurity Framework (CSF)
+# NIST Cybersecurity Framework (CSF) - CSF 2.0
 
 <img width="534" height="483" alt="image" src="https://github.com/user-attachments/assets/58c76b35-4434-4008-9cc3-ce05a6d51efc" />
 
