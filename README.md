@@ -17,6 +17,7 @@ This repository documents my practical labs, projects, and reports.
 - [Hackviser CAPT](Hackviser-CAPT)
 - [SIEM](SOC-LABS/SIEM)
 - [LABEX-LABS](Labex-Labs)
+- [Security Reports](security-news-reports)
 
 ---
 
