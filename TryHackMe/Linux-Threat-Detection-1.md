@@ -317,7 +317,7 @@ Web request (command injection)
 3. **Check access.log** (web activity)
 4. **Build process tree** (auditd)
 5. **Trace to origin** (PID → PPID)
-6. **Determine verdict** (legitimate/malicious)
+6. **Determine verdict** (legitimate)
 
 ---
 
