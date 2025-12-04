@@ -33,7 +33,7 @@ ls
 cat README.txt
 ```
 
-McSkidy left a security guide before being kidnapped!
+McSkidy left a security guide before being kidnapped
 
 ### Navigate to Guides
 
