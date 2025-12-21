@@ -296,4 +296,4 @@ fcrackzip -u -D -p wordlist.txt file.zip
 
 ---
 
-Happy hunting
+Happy hunting!
