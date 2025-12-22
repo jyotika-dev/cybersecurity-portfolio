@@ -1,7 +1,7 @@
 # 🔐 Cybersecurity Portfolio – Jyotika Kishor
 
 Welcome to my cybersecurity portfolio!  
-I am a cybersecurity enthusiast with hands-on experience in **SOC analysis, cloud security, vulnerability management, and IoT security**.  
+I am a cybersecurity enthusiast with hands-on experience in **SOC analysis, log analysis, cloud security, vulnerability management, and IoT security**.  
 This repository documents my practical labs, projects, and reports.
 
 ---
