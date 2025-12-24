@@ -180,7 +180,7 @@ https://LAB_WEB_URL.p.thmlabs.com
 - No malicious intent
 - Bulk marketing
 
-**Verdict:** Spam (Not Phishing)
+**Verdict:** Spam
 
 **Flag:** `THM{It-was-just-a-sp4m!!}`
 
