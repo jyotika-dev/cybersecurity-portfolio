@@ -226,7 +226,7 @@ Complete the first drag-and-drop workbook exercise.
 
 Place all steps in correct order.
 
-- Answer: `THM{workbook_1_completed}`
+- Answer: `THM{the_most_common_soc_workbook}`
 
 ---
 
@@ -236,7 +236,7 @@ Complete the second drag-and-drop workbook exercise.
 
 Organize investigation steps properly.
 
-- Answer: `THM{workbook_2_completed}`
+- Answer: `THM{be_vigilant_with_powershell}`
 
 ---
 
@@ -246,7 +246,7 @@ Complete the third drag-and-drop workbook exercise.
 
 Build the final workbook correctly.
 
-- Answer: `THM{workbook_3_completed}`
+- Answer: `THM{asset_inventory_is_essential}`
 
 ---
 
