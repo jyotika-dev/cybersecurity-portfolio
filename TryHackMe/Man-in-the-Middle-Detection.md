@@ -176,12 +176,13 @@ arp.opcode == 2 && arp.src.proto_ipv4 == 192.168.10.1 && eth.src == 02:fe:fe:fe:
 
 **Filter:**
 ```
-dns.flags.response==1 && dns.qry.name=="corp-login.acme-corp.local"
+dns && dns.qry.name == "corp-login.acme-corp.local" && dns.flags.response == 1
+
 ```
 
 Count DNS response packets.
 
-- Answer: `3`
+- Answer: `211`
 
 ---
 
