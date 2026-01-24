@@ -142,7 +142,7 @@ index=task4 ComputerName=WIN-105 DestinationPort=5678
 
 **Q2: Which process initiated suspicious connection?**
 
-- Answer: `SharePoint.exe`
+- Answer: `SharePoInt.exe`
 
 ---
 
